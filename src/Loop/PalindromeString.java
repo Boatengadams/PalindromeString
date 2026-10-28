@@ -1,3 +1,4 @@
+// Question: Is the string entered by the user a palindrome?
 package Loop;
 
 import java.util.Scanner;
@@ -5,7 +6,7 @@ import java.util.Scanner;
 // A program which finds if a string is palindrome string or not
 // ADA ,12321
 public class PalindromeString {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("ENTER WORD TO CHECK IF IS PALINDROME");
         Scanner input = new Scanner(System.in);
 
